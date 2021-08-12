@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--enycrptListConf.xml-->
+<EncryptionList>
+    <Name>ENC_AES128</Name>
+    <Name>DEC_AES128</Name>
+</EncryptionList>
+
+<CompressList>
+<Name>COM_GZIP</Name>
+<Name>COM_GZ</Name>
+<Name>COM_BZIP2</Name>
+<Name>COM_BZ2</Name>
+<Name>DCOM_GZIP</Name>
+<Name>DCOM_GZ</Name>
+<Name>DCOM_BZIP2</Name>
+<Name>DCOM_BZ2</Name>
+</CompressList>
