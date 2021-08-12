@@ -2,6 +2,8 @@
 
 Commands to install in mac:
 
+Download build.zip from https://github.com/Sivasubramani/FileReaderDesign/
+
 unzip build.zip
 cd build
 make install
